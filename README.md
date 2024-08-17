@@ -17,7 +17,7 @@ git clone https://github.com/comfyanonymous/ComfyUI .
 
 ### To install ComfyUI manager go to
 ```bash
-cd ComfyUI/custom_nodes
+cd custom_nodes
 ```
 
 ### Clone ComfyUI manager repo
@@ -27,7 +27,7 @@ git clone https://github.com/ltdrdata/ComfyUI-Manager
 
 ### Back to main Folder
 ```bash
-cd ComfyUI
+cd ..
 ````
 
 ### Create new virtual environment
@@ -80,6 +80,8 @@ https://huggingface.co/stabilityai/sdxl-vae/tree/main
 ### Run ComfyUI local server follow terminal link
 ```bash
 python3 main.py --gpu-only
+```
 
+```bash
 http://127.0.0.1:8188/
 ```
