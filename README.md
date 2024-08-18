@@ -1,5 +1,7 @@
 # Setup Comfy UI with Stable Diffusion XL model locally
 
+## [Watch on YouTube](https://www.youtube.com/watch?v=dGx50S4b7_s&t=61s)
+
 ### Navigate to the folder where you want to install ComfyUI
 ```bash
 mkdir ComfyUI
